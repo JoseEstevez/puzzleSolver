@@ -1,2 +1,1 @@
 # puzzleSolver
-BFS Algorithm
